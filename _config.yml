@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ezron.github.io
+title: lonelyboy
+tagline: A log of everyday life
+description: The life of a lonely boy looking for love
+paginate: 5
